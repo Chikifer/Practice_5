@@ -1,5 +1,5 @@
 # Practice 5. Introduction to using MPLAB X IDE
-
+Luis Fernando Maldonado Sepúlveda
 
 ## Objectives
 The student will become familiar with the MPLAB
@@ -117,8 +117,9 @@ For this practice, add to the Result Section the following:
 Commit and push the file main.c created once you completed all the steps of the document in the repository.
 
 ### Demonstration
-Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation.
+Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation. 
+The link to my video is here: https://www.youtube.com/watch?v=AR1N1qUKeZA
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+In this practice, I learned the basics of MPLAB and its functioning. First, I saw how to create a project and change the settings, depending on the application, and then added a header file to support the main code, which was provided only for debugging purposes. It was mostly easy to correct the original mistakes, but what was really interesting is the fact that you can observe the SFRs and notice the bit changes after stepping over the coding lines. I have never heard of MPLAB before, so I just hope I don't have problems using it.
